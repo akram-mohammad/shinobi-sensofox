@@ -1,5 +1,6 @@
 {
   "port": 3500,
+  "passwordType": "md5",
   "detectorMergePamRegionTriggers": true,
   "wallClockTimestampAsDefault": true,
   "addStorage": [
