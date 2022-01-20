@@ -1,5 +1,5 @@
 {
-  "port": 3500,
+  "port": 8080,
   "passwordType": "md5",
   "detectorMergePamRegionTriggers": true,
   "wallClockTimestampAsDefault": true,
